@@ -1,6 +1,6 @@
 # Starship Shield Landing Page
 
-![Testimonials](readme_images/testimonials_website.png)
+![Testimonials](readme_images/home.png)
 
 ## Description
 
