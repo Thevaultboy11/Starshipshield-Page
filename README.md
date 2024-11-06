@@ -19,6 +19,8 @@ To highlight these achievements, we created this site to present all relevant in
 
 ## Installation Guide (HARD)
 
+Note Works On **Node v22.11.0**, **Npm v10.9.0**
+
 Follow these steps to set up and run the project locally:
 
 1. **Install Git** and **Node.js** (latest version).
@@ -55,7 +57,6 @@ Follow these steps to set up and run the project locally:
    ```
    - This command starts the app in development mode, allowing you to view it locally and make changes. By default, it should be accessible at [http://localhost:3000](http://localhost:3000).
 
-## Installation Guide (EASY)
 
 ## Pages
 
